@@ -13,7 +13,7 @@
 
 | 项目 | 说明 |
 | --- | --- |
-| [codex-agents](https://github.com/Maoxin1/codex-agents) | 可复用的 Codex Agents，覆盖提示词优化、批判性思考、事实核验和长期投资研究。 |
+| [codex-agents](https://github.com/Maoxin1/codex-agents) | 可复用的 Codex Agents，覆盖提示词优化、批判性思考、事实核验和长期投资研究；已发布 [v0.1.1](https://github.com/Maoxin1/codex-agents/releases/tag/v0.1.1)。 |
 | [tool-mental-models](https://github.com/Maoxin1/tool-mental-models) | 面向实践的 AI 工具与心智模型知识文档。 |
 | [mantou-blog](https://github.com/Maoxin1/mantou-blog) | 基于 Hugo、Decap CMS、Pagefind 和 Cloudflare Pages 的中文个人博客。 |
 | [mantou-checklist](https://github.com/Maoxin1/mantou-checklist) | 本地优先、可离线使用的长期行动清单与 PNG 生成器。 |
@@ -21,6 +21,7 @@
 ## 在线入口
 
 - [mantou の blog](https://mantou-blog.pages.dev/)：写作、学习与项目记录；
+- [作品集](https://mantou-blog.pages.dev/works/)：查看已公开作品、证据与复盘；
 - [长期行动清单](https://mantou-checklist.pages.dev/)：可直接使用的离线优先 PWA。
 
 ## 常用技术
