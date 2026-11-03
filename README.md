@@ -1,22 +1,21 @@
 # 你好，我是 mantou👋
 
-我在整理一套可长期维护的 AI 工具、知识文档与个人工作流，也持续记录写作、学习和实践过程。
+我把真实问题转化成可验证的小工具、AI 工作流和公开案例。这里展示已经交付的作品、已知限制与后续复盘，不把进行中的实验包装成成熟产品。
 
 ## 目前关注
 
-- 把 AI Agent 与提示词方法沉淀为可验证、可复用的工具；
-- 用清晰的心智模型理解命令行、Git 和 AI 编程工具；
-- 建设重视隐私、来源和长期可维护性的个人知识系统；
-- 通过博客记录成长、生活与作品。
+- **可复用 AI 工作流**：把提示词优化、推理检查、研究方法沉淀为可验证的 Codex Agents；
+- **本地优先的小工具**：让阅读、行动记录与训练等个人流程更容易执行；
+- **公开可核查的案例**：解释真实问题、失败、测试结果和限制，而不只展示完成的界面。
 
 ## 主要项目
 
 | 项目 | 说明 |
 | --- | --- |
-| [codex-agents](https://github.com/Maoxin1/codex-agents) | 可复用的 Codex Agents，覆盖提示词优化、批判性思考、事实核验和长期投资研究；已发布 [v0.1.1](https://github.com/Maoxin1/codex-agents/releases/tag/v0.1.1)。 |
+| [codex-agents](https://github.com/Maoxin1/codex-agents) | 目前有 **8 位 Agent**（其中 4 位扩展顾问仍在试用）；[v0.1.1](https://github.com/Maoxin1/codex-agents/releases/tag/v0.1.1) 是已发布的较早版本，当前完整能力与验证边界以仓库 README 为准。 |
 | [tool-mental-models](https://github.com/Maoxin1/tool-mental-models) | 面向实践的 AI 工具与心智模型知识文档。 |
 | [mantou-blog](https://github.com/Maoxin1/mantou-blog) | 基于 Hugo、Decap CMS、Pagefind 和 Cloudflare Pages 的中英双语个人博客。 |
-| [mantou-checklist](https://github.com/Maoxin1/mantou-checklist) | 本地优先、可离线使用的长期行动清单与 PNG 生成器。 |
+| [mantou-checklist](https://github.com/Maoxin1/mantou-checklist) | 本地优先、可离线使用的长期行动清单与 PNG 生成器；支持自定义标题、三个记录项目名称与训练选项。 |
 
 ## 在线入口
 
