@@ -16,7 +16,7 @@
 
 | 项目 | 用途与当前状态 |
 | --- | --- |
-| [codex-agents](https://github.com/Maoxin1/codex-agents) | 默认提供两个日常入口：`_manuel` 帮助澄清目标、检查判断并给出下一步，`_mantou` 帮助把需求说清楚；另有可选角色。新版行为仍待真实使用评估。 |
+| [codex-agents](https://github.com/Maoxin1/codex-agents) | 默认提供两个日常入口：`_manuel` 帮助澄清目标、检查判断并给出下一步，`_mantou` 帮助把需求说清楚。当前仅发布这两个角色；旧安装见[迁移说明](https://github.com/Maoxin1/codex-agents/blob/main/docs/migration.md)。新版行为仍待真实使用评估。 |
 | [mantou-training](https://github.com/Maoxin1/mantou-training) | 离线优先的个人训练卡，记录训练、饮食与恢复，导出 Markdown 复盘；支持可选账号同步。[在线使用](https://mantou-training-offline.vercel.app/) |
 | [mantou-checklist](https://github.com/Maoxin1/mantou-checklist) | 每天记录阅读与思考时间、训练状态和日记完成情况，汇总本周投入并生成 PNG；支持离线与个性化设置。[手机编辑器](https://mantou-checklist.pages.dev/editor) · [桌面版](https://mantou-checklist.pages.dev/) |
 | [mantou-blog](https://github.com/Maoxin1/mantou-blog) | Hugo + LoveIt 构建的中英双语博客，包含文章、作品、近况与定投手记；支持站内搜索、RSS 和已浏览页面的离线阅读。 |
