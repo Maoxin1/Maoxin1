@@ -1,7 +1,5 @@
 # 你好，我是 mantou 👋
 
-> 知不足而奋进，望远山而前行。
-
 我把阅读、AI 和生活实践中反复遇到的问题做成小工具，也把过程写进博客。作品留下做成了什么，日记留下当时怎么想；失败、修正和还没解决的问题，也一起保留。
 
 [博客](https://mantou-blog.pages.dev/) · [作品集](https://mantou-blog.pages.dev/works/) · [当前在做什么](https://mantou-blog.pages.dev/now/) · [关于我](https://mantou-blog.pages.dev/about/)
